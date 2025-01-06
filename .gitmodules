@@ -3,3 +3,6 @@
     url = https://github.com/jogjitu/jogjitu.github.io.git
     branch = main
 
+[submodule "themes/PaperMod"]
+    path = themes/PaperMod
+    url = git@github.com:adityatelange/hugo-PaperMod.git
