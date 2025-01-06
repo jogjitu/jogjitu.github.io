@@ -1,0 +1,18 @@
+baseURL = "https://jogjitu.github.io/"
+title = "Your Blog Title"
+theme = "PaperMod"
+enableGitInfo = false
+
+[params]
+  mainSections = ["posts"]
+  disableSearch = false
+  disableBreadcrumb = true
+  disableNavBar = false
+  showPostDate = true
+  favicon = "/favicon.ico"
+  description = "A blog about [your topic]."
+  summaryLength = 150
+  customCSS = ["css/custom.css"]
+  customJS = ["js/custom.js"]
+[taxonomies]
+  categories = "category"    

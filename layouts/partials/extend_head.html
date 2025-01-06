@@ -1,0 +1,2 @@
+{{- $plyr := resources.Get "js/custom.js" | minify | fingerprint -}}
+<script src="{{ $plyr.Permalink }}"></script>
