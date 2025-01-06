@@ -1,12 +1,4 @@
-[submodule "jogjitu.github.io"]
-    path = jogjitu.github.io
-    url = https://github.com/jogjitu/jogjitu.github.io.git
-    branch = main
-
 [submodule "themes/PaperMod"]
 	path = themes/PaperMod
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 
-[submodule "jogjitu.github.io/themes/PaperMod"]
-    path = jogjitu.github.io/themes/PaperMod
-    url = git://github.com/jogjitu/PaperMod.git    
